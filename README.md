@@ -1,2 +1,2 @@
 # Projects
-Problem No. 1
+Pythagorean triplet
