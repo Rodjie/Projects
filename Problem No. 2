@@ -33,4 +33,4 @@ for ($first = 2; $first < $limit; $first += 3) {
 echo $first;
 ?>
 
-Answer: 17
+<!-- Answer: 17 -->
