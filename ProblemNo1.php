@@ -1,4 +1,4 @@
-There exists exactly one Pythagorean triplet for which a + b + c = 1000. Find the product abc.
+<!--There exists exactly one Pythagorean triplet for which a + b + c = 1000. Find the product abc.-->
 
 
 <!--We need to loop for the possible value of a and b then calculate the c if that is a soluton.-->
