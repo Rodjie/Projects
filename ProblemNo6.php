@@ -1,8 +1,8 @@
-/* Using OOP approach, create a calculator application. It should be capable of doing basic operations like addition, 
+<!-- Using OOP approach, create a calculator application. It should be capable of doing basic operations like addition, 
 subtraction, multiplication, and division. It should also be able to calculate exponents and expressions, 
 where the user can group calculations using parenthesis. It should follow the PEMDAS rule. 
 It should also be able to get the square root of a number. 
-As an example it should be able to calculate: (112 + 182)(√100)/(55 – 7 * 4) + 15. */
+As an example it should be able to calculate: (112 + 182)(√100)/(55 – 7 * 4) + 15. -->
 
 
 <html>
