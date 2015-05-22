@@ -2,6 +2,7 @@
 
 
 <!--We need to loop for the possible value of a and b then calculate the c if that is a soluton.-->
+<!--200,375,425-->
 <!--The product is 31875000. http://sandbox.onlinephpfunctions.com is my php code tester. -->
 
 <?php
