@@ -164,6 +164,10 @@ document.calc.display.value = ""
 
 }
 
+  .btn:hover {
+	background-color: #F9FFE6;
+  }
+
 .txt {
 
    width: 250px;
