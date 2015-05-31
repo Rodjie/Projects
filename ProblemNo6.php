@@ -213,7 +213,7 @@ document.calc.display.value = ""
 </BODY>
 </HTML>
 
-<!-- Updating -->
+<!-- Updating PEMDAS rule -->
 
 <html>
       <head>
